@@ -11,7 +11,7 @@ public class Salario {
         System.out.println("Salario por hora: "+ shoras);
         System.out.println("Salario bruto: "+ sbruto);
         System.out.println("Salario neto: "+ sneto);
-        System.out.println("Taza de retencion: "+ tretencion*100);
+        System.out.println("Taza de retencion: "+ tretencion*100 + "%");
         System.out.println("Retencion: "+ retencion);
         
     }
